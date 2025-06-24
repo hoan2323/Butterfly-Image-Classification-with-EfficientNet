@@ -17,3 +17,5 @@ Files
 Columns
 - ID - image file name
 - label - ground truth of data`
+
+Work in kaggle
